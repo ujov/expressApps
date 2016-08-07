@@ -1,0 +1,26 @@
+{
+  "name": "coffeeapp",
+  "version": "1.0.0",
+  "description": "express coffee list app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujov/expressApps.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "ujov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujov/expressApps/issues"
+  },
+  "homepage": "https://github.com/ujov/expressApps#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
